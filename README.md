@@ -24,5 +24,3 @@ A Passionate Python Developer and Full Stack Discord Developer
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com)
 <br />
 <br />
-
--->
